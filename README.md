@@ -14,5 +14,6 @@ pip install fpdf
 pip install tools
 pip install pymupdf
 pip install litellm
+
 #---IDE
 pycharm
