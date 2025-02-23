@@ -17,3 +17,5 @@ pip install litellm
 
 #---IDE
 pycharm
+
+#---Command to run in pycharm terminal:-  "streamlit run app.py"
